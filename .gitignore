@@ -1,38 +1,3 @@
-
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Marketplace
-    Explore
-
-    @owninator
-
-2,534
-66,748
-
-    30,449
-
-github/gitignore
-Code
-Pull requests 185
-Projects 0
-Insights
-gitignore/UnrealEngine.gitignore
-dc559d6 on 24 Nov 2017
-@halbich halbich Include Plugins folder
-@samsheff
-@calben
-@vvolkgang
-@robipresotto
-@NuLL3rr0r
-@hzor3000
-@halbich
-@gagallo7
-@shiftkey
-@BGR360
-78 lines (60 sloc) 990 Bytes
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -110,20 +75,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-    © 2018 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    API
-    Training
-    Shop
-    Blog
-    About
-
-Press h to open a hovercard with more details.
-
